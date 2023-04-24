@@ -25,3 +25,5 @@ def test_palindrome():
         print("Palindrome")
     else:
         print("Not Palindrome")
+
+        #Не смогла с числом
